@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="130" started-at="2021-08-05T23:41:02 EDT" finished-at="2021-08-05T23:41:02 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="130" started-at="2021-08-05T23:41:02 EDT" finished-at="2021-08-05T23:41:02 EDT">
+      <class name="XenexEnterprises.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:XenexEnterprises.SeleniumTest@4b1c1ea0]" name="BrowserAutomation" duration-ms="15" started-at="2021-08-05T23:41:02 EDT" finished-at="2021-08-05T23:41:02 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="ElementsUi()[pri:0, instance:XenexEnterprises.SeleniumTest@4b1c1ea0]" name="ElementsUi" duration-ms="2" started-at="2021-08-05T23:41:02 EDT" finished-at="2021-08-05T23:41:02 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUi -->
+      </class> <!-- XenexEnterprises.SeleniumTest -->
+      <class name="XenexEnterprises.AppiumTest">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:XenexEnterprises.AppiumTest@17579e0f]" name="IOSApps" duration-ms="2" started-at="2021-08-05T23:41:02 EDT" finished-at="2021-08-05T23:41:02 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="NativeAppAndroid()[pri:0, instance:XenexEnterprises.AppiumTest@17579e0f]" name="NativeAppAndroid" duration-ms="2" started-at="2021-08-05T23:41:02 EDT" finished-at="2021-08-05T23:41:02 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- XenexEnterprises.AppiumTest -->
+      <class name="XenexEnterprises.RESTAPITest">
+        <test-method status="PASS" signature="PostJira()[pri:0, instance:XenexEnterprises.RESTAPITest@4d41cee]" name="PostJira" duration-ms="7" started-at="2021-08-05T23:41:02 EDT" finished-at="2021-08-05T23:41:02 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJira -->
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:XenexEnterprises.RESTAPITest@4d41cee]" name="deleteTwitter" duration-ms="2" started-at="2021-08-05T23:41:02 EDT" finished-at="2021-08-05T23:41:02 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+      </class> <!-- XenexEnterprises.RESTAPITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,6 @@
+projectKey=XenexEnterprises:MavenJava
+serverUrl=http://localhost:9000
+serverVersion=6.7.7.38951
+dashboardUrl=http://localhost:9000/dashboard/index/XenexEnterprises:MavenJava
+ceTaskId=AXsZtHR6bDTyVe0KbJcf
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXsZtHR6bDTyVe0KbJcf
